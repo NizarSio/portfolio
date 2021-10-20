@@ -1,3 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+
+
+
+
 .rectangle{
     border-radius: 15px;
     width: 99%;
@@ -204,4 +211,8 @@ nav li:hover .submenu{
     width: 260px;
     margin: auto;
     padding: auto;
+}
+
+.titre_portfolio{
+    font-family: 'Fredoka One', cursive;
 }
