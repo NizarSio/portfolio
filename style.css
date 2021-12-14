@@ -120,22 +120,22 @@ nav li:hover .submenu{
 
 .menu-html:hover{
      border-top: 5px solid #e44d26;
-     background-color: darkred;
+     background-color: #FFC155;
 }
 
 .menu-css:hover{
      border-top: 5px solid #0070bb;
-     background-color: darkred;
+     background-color: #FFC155;
 }
 
 .menu-js:hover{
     border-top: 5px solid #0070bb;
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .menu-contact:hover{
     border-top: 5px solid #BBB;
-    background-color: darkred;
+    background-color: #FFC155;
 
 }
 
@@ -145,15 +145,15 @@ nav > ul > li:hover a{
 
 
 .menu-html .submenu{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .menu-css .submenu{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .menu-js .submenu{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .submenu li:hover a{
@@ -162,15 +162,15 @@ nav > ul > li:hover a{
 }
 
 .menu-html .submenu li:hover{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .menu-css .submenu li:hover{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 .menu-js .submenu li:hover{
-    background-color: darkred;
+    background-color: #FFC155;
 }
 
 nav input[type=checkbox]:checked ~ ul{
