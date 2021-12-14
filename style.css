@@ -69,7 +69,7 @@ nav input[type=checkbox]{
 
 nav{
     width: 100%;
-    background-color: #FFC155;
+    background-color: #424558;
 
 }
 
@@ -108,34 +108,34 @@ nav li:hover .submenu{
 
 .submenu li {
 
-    border-bottom: 1px solid #FFC155;
+    border-bottom: 1px solid #CCC;
 }
 
 .submenu li a {
      padding: 15px 30px;
      font-size: 13px;
-     color: #FFC155;
+     color: #222538;
      width: 270px;
 }
 
 .menu-html:hover{
-     border-top: 5px solid #FFC155;
-     background-color: #FFC155;
+     border-top: 5px solid #e44d26;
+     background-color: darkred;
 }
 
 .menu-css:hover{
-     border-top: 5px solid #FFC155;
-     background-color: #FFC155;
+     border-top: 5px solid #0070bb;
+     background-color: darkred;
 }
 
 .menu-js:hover{
-    border-top: 5px solid #FFC155;
-    background-color: #FFC155;
+    border-top: 5px solid #0070bb;
+    background-color: darkred;
 }
 
 .menu-contact:hover{
-    border-top: 5px solid #FFC155;
-    background-color: #FFC155;
+    border-top: 5px solid #BBB;
+    background-color: darkred;
 
 }
 
@@ -145,32 +145,32 @@ nav > ul > li:hover a{
 
 
 .menu-html .submenu{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 .menu-css .submenu{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 .menu-js .submenu{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 .submenu li:hover a{
-    color: #FFC155;
+    color: whitesmoke;
     font-weight: bold;
 }
 
 .menu-html .submenu li:hover{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 .menu-css .submenu li:hover{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 .menu-js .submenu li:hover{
-    background-color: #FFC155;
+    background-color: darkred;
 }
 
 nav input[type=checkbox]:checked ~ ul{
@@ -180,8 +180,8 @@ nav input[type=checkbox]:checked ~ ul{
 @media screen and (max-width: 680px){
    .menu-mobile {
      display: block;
-     color: #FFC155;
-     background-color: #FFC155;
+     color: darkred;
+     background-color: white;
      text-align: center;
      padding: 12px 0;
     }
