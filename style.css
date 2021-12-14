@@ -69,7 +69,7 @@ nav input[type=checkbox]{
 
 nav{
     width: 100%;
-    background-color: #424558;
+    background-color: #FFC155;
 
 }
 
@@ -108,7 +108,7 @@ nav li:hover .submenu{
 
 .submenu li {
 
-    border-bottom: 1px solid #CCC;
+    border-bottom: 1px solid #FFC155;
 }
 
 .submenu li a {
@@ -119,22 +119,22 @@ nav li:hover .submenu{
 }
 
 .menu-html:hover{
-     border-top: 5px solid #e44d26;
+     border-top: 5px solid #FFC155;
      background-color: #FFC155;
 }
 
 .menu-css:hover{
-     border-top: 5px solid #0070bb;
+     border-top: 5px solid #FFC155;
      background-color: #FFC155;
 }
 
 .menu-js:hover{
-    border-top: 5px solid #0070bb;
+    border-top: 5px solid #FFC155;
     background-color: #FFC155;
 }
 
 .menu-contact:hover{
-    border-top: 5px solid #BBB;
+    border-top: 5px solid #FFC155;
     background-color: #FFC155;
 
 }
@@ -157,7 +157,7 @@ nav > ul > li:hover a{
 }
 
 .submenu li:hover a{
-    color: whitesmoke;
+    color: #FFC155;
     font-weight: bold;
 }
 
@@ -180,8 +180,8 @@ nav input[type=checkbox]:checked ~ ul{
 @media screen and (max-width: 680px){
    .menu-mobile {
      display: block;
-     color: darkred;
-     background-color: white;
+     color: #FFC155;
+     background-color: #FFC155;
      text-align: center;
      padding: 12px 0;
     }
